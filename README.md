@@ -34,7 +34,7 @@ That's a lot of stuff there! So congratulations on coming so far, and good luck 
 
 <br>
 <p align="center">
-  <img alt="clone" src="./img/clone.PNG" />
+  <img alt="clone" src="./img/clone.PNG" width="400"/>
 </p>
 <br>
 
