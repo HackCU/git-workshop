@@ -68,7 +68,7 @@ This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="Pull Request 2" src="./img/pr-2.PNG" />
+  <img alt="Pull Request 2" src="./img/pr-2.PNG" width="700"/>
 </p>
 <br>
 
