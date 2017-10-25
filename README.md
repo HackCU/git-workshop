@@ -23,7 +23,7 @@ That's a lot of stuff there! So congratulations on coming so far, and good luck 
 
 <br>
 <p align="center">
-  <img alt="fork" src="./img/fork.PNG" width="200"/>
+  <img alt="fork" src="./img/fork.PNG" />
 </p>
 <br>
 
@@ -34,7 +34,7 @@ That's a lot of stuff there! So congratulations on coming so far, and good luck 
 
 <br>
 <p align="center">
-  <img alt="clone" src="./img/clone.PNG" width="200"/>
+  <img alt="clone" src="./img/clone.PNG" />
 </p>
 <br>
 
@@ -50,7 +50,7 @@ This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="commands" src="./img/commands.PNG" width="200"/>
+  <img alt="commands" src="./img/commands.PNG" />
 </p>
 <br>
 
@@ -60,7 +60,7 @@ This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="Pull Request 1" src="./img/pr-1.PNG" width="200"/>
+  <img alt="Pull Request 1" src="./img/pr-1.PNG" />
 </p>
 <br>
 
@@ -68,7 +68,7 @@ This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="Pull Request 2" src="./img/pr-2.PNG" width="200"/>
+  <img alt="Pull Request 2" src="./img/pr-2.PNG" />
 </p>
 <br>
 
