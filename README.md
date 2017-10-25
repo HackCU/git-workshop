@@ -50,7 +50,7 @@ This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="commands" src="./img/commands.PNG" />
+  <img alt="commands" src="./img/commands.PNG" width="600"/>
 </p>
 <br>
 
