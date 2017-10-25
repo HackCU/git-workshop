@@ -18,6 +18,8 @@ You also know how to collaborate with your team using Git.
 
 That's a lot of stuff there! So congratulations on coming so far, and good luck with your PR!
 
+<hr>
+
 ### Forking the repository
 1. The first thing you want to do is to fork this repository into your account. Click the `Fork` button at the top right corner (below your profile picture) to create your own version of this repository.
 
@@ -27,32 +29,38 @@ That's a lot of stuff there! So congratulations on coming so far, and good luck 
 </p>
 <br>
 
+<hr>
+
 ### Cloning your fork
 2. Now, go to your fork and click the green button that says `Clone or download`. Copy the link that is displayed and go to your terminal and run the following command:
-
-`$ git clone <url>`
-
+```
+$ git clone <url>
+```
 <br>
 <p align="center">
-  <img alt="clone" src="./img/clone.PNG" />
+  <img alt="clone" src="./img/clone.PNG" width="400"/>
 </p>
 <br>
+
+<hr>
 
 ### Creating a branch and making changes
 5. Once you `cd` into the repository on your computer, create a new branch with a descriptive name.
 6. Then add a file into the `my-contributions` directory with your GitHub username.
 7. Commit your changes.
 8. Push your changes to your fork with the following command:
-
-`$ git push origin <your-branch-name>`
-
+```
+$ git push origin <your-branch-name>
+```
 This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="commands" src="./img/commands.PNG" />
+  <img alt="commands" src="./img/commands.PNG" width="600"/>
 </p>
 <br>
+
+<hr>
 
 ### Creating a PR
 9. Now go back to your fork. You may have to refresh to fetch updates. Change the branch to the branch you just made.
@@ -68,9 +76,11 @@ This will create a new branch on your fork with the commits you made.
 
 <br>
 <p align="center">
-  <img alt="Pull Request 2" src="./img/pr-2.PNG" />
+  <img alt="Pull Request 2" src="./img/pr-2.PNG" width="700"/>
 </p>
 <br>
+
+<hr>
 
 You're all set! Congratulations on creating your first Pull Request!&nbsp; :tada: <br>
 Now, your journey will never end. Keep hacking!
